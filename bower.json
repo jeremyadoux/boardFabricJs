@@ -1,0 +1,21 @@
+{
+  "name": "boardFabricJs",
+  "authors": [
+    "jeremy.adoux@gmail.com"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fabric-customise-controls": "^0.1.7"
+  }
+}

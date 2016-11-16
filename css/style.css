@@ -1,0 +1,6 @@
+#canvasContainer {
+    width: 600px;
+    height: 600px;
+    border: dotted gray thin;
+    overflow: hidden;
+}

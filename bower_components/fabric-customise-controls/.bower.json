@@ -1,0 +1,34 @@
+{
+  "name": "fabric-customise-controls",
+  "version": "0.1.7",
+  "main": "dist/customiseControls.js",
+  "ignore": [
+    "source",
+    "spec",
+    ".bowerrc",
+    ".gitignore",
+    ".jscsrc",
+    "bower.json",
+    "gruntfile.js",
+    "package.json",
+    "README.md"
+  ],
+  "authors": [
+    "Simon Kunz"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "fabric": "~1.6.3"
+  },
+  "homepage": "https://github.com/pixolith/fabricjs-customise-controls-extension",
+  "_release": "0.1.7",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.7",
+    "commit": "36183a2a06a9052d687b811ba097c5654df6f555"
+  },
+  "_source": "https://github.com/pixolith/fabricjs-customise-controls-extension.git",
+  "_target": "^0.1.7",
+  "_originalSource": "fabric-customise-controls",
+  "_direct": true
+}
